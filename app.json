@@ -14,6 +14,9 @@
       "eas": {
         "projectId": "66f9af4a-4c34-46a3-8720-7346de37d704"
       }
+    },
+    "android": {
+      "package": "com.danilaudza.bayarbro"
     }
   }
 }
